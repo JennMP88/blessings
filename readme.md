@@ -1,9 +1,9 @@
-## 10. **GitHub Collaboration**
+## **GitHub Collaboration**
 1. **Getting Started**
     * Fork & Clone Project 
     * In cloned directory excute *__these__* command: 
         * > ```npm install```
-        * > ```git remote add main https://github.com/FiveEightyEight/TeamTwo_YTube```
+        * > ```git remote add main https://github.com/JennMP88/blessings```
 2. **Building**
     * **NEVER** work on **master** branch
         * **_DO_**:  `git checkout -b 'task_branch'`  
